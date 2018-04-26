@@ -1,1 +1,1 @@
-Wallet version zero created bz CaptianHook
+Wallet version zero created by CaptianHook
