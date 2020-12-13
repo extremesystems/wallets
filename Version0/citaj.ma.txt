@@ -1,0 +1,39 @@
+skopiruj vsetky subory do c:\icoin
+spusti icoin-qt.exe
+
+Dolezite nastavenia:
+nastav si zabezpecenie - heslo!!!!!
+spustenie po starte s windows
+pri zatvoreni zminimalizovat
+spustit minimalizovane
+poplatok na 0.001 ICN
+zobrazovat transakcie
+
+Zalohovanie penazenky:
+vypnut
+vedla hodin vo windowse vypnut ak bezi na pozadi
+ist do c:\Usersz__YOUR_NAME\AppData\Roaming\iCoin
+skopirovat subor iCoin.conf
+zmenit v subore iCoin.conf rpcpassword na nejake svoje nahodne vygenerovane heslo !!!! nepozuvat ziaden softwerovy generator
+bezpecne si ulozit subor wallet.dat (zararovat s heslom nejakym, poslat si na externy disk offline, gmail a podobne online sluzby)
+
+
+Prva synchronizacia:
+opat spustit iqoin-qt
+ist vedla hodin vo windows pravym klik na iCoin zobrazit okno
+zacne prebiehat sychronizacia s master servermi
+ist do received a skopirovat adresu penazenky
+pomenovat si penazenku
+poslat email na nakamotosatoshi208@gmail.com s adresu penazenky
+
+Generovanie:
+podla poctu threadov na pc nastavit 50% (ak mam 8 threadov tak 4)
+info o programe 
+debug window
+zadat prikaz  "setgenerate true 4"
+
+Kontrola transakcii:
+otvorit Web iCoin Explorer applikaciu
+https://chainz.cryptoid.info/icn/  
+
+
